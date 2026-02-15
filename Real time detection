@@ -1,4 +1,4 @@
-3 REAL TIME DETECTION
+
 # ========== BLOCK 1: IMPORT LIBRARIES ==========
 # Why needed: Import necessary libraries for detection
 import cv2
