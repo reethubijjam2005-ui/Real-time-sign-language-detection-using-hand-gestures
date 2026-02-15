@@ -1,4 +1,4 @@
-SIGN LANGUAGE DETECTION DATA COLLECTION 1
+
 # ========== BLOCK 1: IMPORT LIBRARIES ==========
 # Why needed: Import all necessary libraries for the project
 import cv2 # For camera access and image processing
