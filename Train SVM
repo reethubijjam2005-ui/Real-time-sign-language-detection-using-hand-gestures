@@ -1,4 +1,4 @@
-2 TRAINING SVM 
+
 # ========== BLOCK 1: IMPORT LIBRARIES ==========
 # Why needed: Import ML and data processing libraries
 import pickle
